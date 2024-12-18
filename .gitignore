@@ -10,6 +10,9 @@ lerna-debug.log*
 # Guideline README for this bootcamp challenge assignment
 devREADME.md
 
+# Notes to self during development
+note.txt
+
 # Diagnostic reports (https://nodejs.org/api/report.html)
 report.[0-9]*.[0-9]*.[0-9]*.[0-9]*.json
 

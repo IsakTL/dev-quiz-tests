@@ -17,6 +17,7 @@
         "jsx": "react-jsx"
     },
     "include": [
+        "../client/**/*.tsx",
         "**/*.tsx",
         "**/*.ts",
         "**/*.js",
