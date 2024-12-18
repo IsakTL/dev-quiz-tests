@@ -4,7 +4,7 @@
 This project is meant as an exercise in testing via Cypress.
 
 ## Instructions
-Download the repo, run install, build, and seed via npm, then run test or open Cypress to view tests in progress.
+Download the repo and change the .env.EXAMPLE file to a regular .env with your Mongo database. Run install, build, and seed via npm, then run test or open Cypress to view tests in progress.
 
 ## Usage
 Since this is intended as a demonstration of the use of Cypress in full-stack development, running the tests is the main purpose of the app unless you want to brush up on your Python knowledge.
